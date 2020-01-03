@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM, { render } from 'react-dom';
 import './index.css'
 
+//Learning JS React library.
 
 function Square(props){
     return (
